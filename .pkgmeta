@@ -1,0 +1,9 @@
+package-as: LibJSON
+
+externals:
+  Libs/LibStub: https://repos.wowace.com/wow/libstub/trunk
+
+ignore:
+  - README.md
+  - test
+  - bench
